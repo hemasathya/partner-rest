@@ -1,7 +1,4 @@
 - name: Docs
   tocHref: /
   topicHref: /
-  items:
-  - name: Partner
-    tocHref: /partner/develop
-    topicHref: partner/develop/index
+
